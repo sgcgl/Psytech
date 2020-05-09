@@ -1,2 +1,2 @@
 # Psytech
-Menthal Health data survey analysis
+Mental Health data survey analysis
